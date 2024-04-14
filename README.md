@@ -157,6 +157,7 @@ Space Agency Rivalries:
 
 These rivalries not only spur advancements in space technology and exploration but also reflect the geopolitical dynamics and ambitions of the nations involved. Each agency seeks to assert its prowess and expand its influence in the realm of outer space, leading to intense competition and occasional collaboration.
 
+#
 ### Related Links
 
 [International Compatibility](https://github.com/sourceduty/International_Compatibility)

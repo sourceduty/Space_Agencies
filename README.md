@@ -161,6 +161,24 @@ These rivalries not only spur advancements in space technology and exploration b
 ### Related Links
 
 [International Compatibility](https://github.com/sourceduty/International_Compatibility)
+<br>
+[Mars](https://github.com/sourceduty/Mars)
+<br>
+[SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Space](https://github.com/sourceduty/Space)
+<br>
+[Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
+<br>
+[Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
+<br>
+[Alien Life](https://github.com/sourceduty/Alien_Life)
+<br>
+[Areospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
+<br>
+[Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

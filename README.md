@@ -1,10 +1,8 @@
 ![ISS](https://github.com/sourceduty/Space_Agencies/assets/123030236/21d0a281-94d8-4706-838b-40a46a1d7fb1)
 
-### Space Agency Compatability
+> Measuring all of the space agencies on Earth for direct relationships, similarities and divides.
 
-🌎 Measuring all of the space agencies on Earth for direct relationships, similarities and divides.
-
-***
+#
 
 | Section                           | Link                                                                                              |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|
